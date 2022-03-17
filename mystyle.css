@@ -1,74 +1,79 @@
 body {
   background-color: #fdfdfd;
+  margin:0;
+  padding:0;
 }
-
-.main {
-  width: 500px;
-  margin: auto;
-}
-
-.container {
+  
+nav {
+  width: 50%;
+  margin-top: 60px;
   display: flex;
-  align-items: center;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
+}
+  
+.navbar i {
+  font-size: 42px;
+  margin-top: 20px;
 }
 
-header img {
-  width: 180px;
-  height: 120px;
-}
-
-.navbar img {
-  width: 30px;
-  height: 40px;
-}
-
-.heading {
-  width: 220px;
-}
-
-.content h1 {
-  font-size: 70px;
-  font-weight: 400;
-  font-family: 'Times New Roman', Times, serif;
-}
-
-.para {
-  width: 340px;
-}
-
-.content {
+section {
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-direction: column;
+  align-items: flex-start;
 }
 
-p {
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 30px;
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
   font-weight: 400;
+  line-height: 57px;
+  margin-left: 305px;
+  margin-top: 120px;
 }
 
+.paragraph{
+  display: flex;
+  width: 16%;
+  margin-left: 290px;
+  margin-top: -30px;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+  
 .rectangle {
+  margin-left: 15%;
+  margin-top: 35px;
+}
+
+.rectangle button {
   background-color: #1a2236;
-  width: 288px;
-  padding: 20px;
+  width: 370px;
+  height: 60px;
+  padding: 10px;
   color: white;
   font-size: 24px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
-  padding-left: 80px;
+}
+
+button:hover{
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background:#fff;
 }
 
 .image {
   display: flex;
   align-items: center;
   flex-direction: column;
+  align-items: flex-start;
+  margin-left: 15%;
 }
-
+  
 .image img {
   width: 350px;
   margin-top: 60px;
