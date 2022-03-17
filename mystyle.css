@@ -1,52 +1,49 @@
-body{
+body {
     background-color: #fdfdfd;;
 }
 .main {
     width: 500px;
     margin: auto;
 }
-.container{
-    display: flex;
+.container {
+   display: flex;
    align-items: center;
    flex-direction: row;
    flex-wrap: wrap;
    justify-content: space-between;
 }
-
-.navbar img{
-   
+.navbar img {
     width: 30px;
     height: 40px;
 }
-header img{
+header img {
     width: 180px;
     height:120px;
 }
-.heading{
+.heading {
     width:220px;
 }
-.content h1{
+.content h1 {
     font-size: 70px;
     font-weight: 400;
     font-family: Playfair Display;
 }
-.para{
+.para {
     width: 340px;
 }
-.content{
+.content {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-p{
+p {
     font-family: Poppins;
     font-size: 30px;
     font-weight: 400;
 
 }
-
-.rectangle{
+.rectangle {
     background-color:#1A2236;
     width: 288px;
     padding: 20px;
@@ -56,12 +53,12 @@ p{
     font-weight: 500;
     padding-left: 80px;
 }
-.image{
+.image {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
-.image img{
+.image img {
     width: 350px;
     margin-top: 60px;
 }
