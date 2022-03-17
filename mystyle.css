@@ -46,13 +46,13 @@ p {
 }
 
 .rectangle {
-  margin-left: 15%;
+  margin-left: 16%;
   margin-top: 35px;
 }
 
 .rectangle button {
   background-color: #1a2236;
-  width: 330px;
+  width: 310px;
   height: 60px;
   padding: 10px;
   color: white;
