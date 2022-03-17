@@ -8,12 +8,25 @@
 ## Built With
 
 - Html, CSS
+- 
+## Getting Started
 
+**This is an example of how you may develop your website in mobile view**
+
+To get started you have to follow the following steps,
+
+### Setup your repository
+
+### Make folders for linters configuration
+
+### Install npm/node_modules
+
+### Run linters test of your coding
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Fatima Zahir**
 
 - GitHub: [@githubhandle](https://github.com/Fatima-hub333)
 - Twitter: [@twitterhandle](https://twitter.com/Fatima_developr)
