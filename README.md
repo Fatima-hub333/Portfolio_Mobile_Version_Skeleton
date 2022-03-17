@@ -2,7 +2,7 @@
 
 # Skeleton_Mobile_Version_Portfolio_Website
 
-> I have to create a mobile version of my portfolio website via using Html, Css.
+> Have to create a mobile version of portfolio website via using HTML, Flex-box model of css. 
 
 
 ## Built With
@@ -15,13 +15,13 @@
 
 To get started you have to follow the following steps,
 
-### Setup your repository
+#### Setup your repository
 
-### Make folders for linters configuration
+#### Make folders for linters configuration
 
-### Install npm/node_modules
+#### Install npm/node_modules
 
-### Run linters test of your coding
+#### Run linters test of your coding
 
 
 ## Authors
