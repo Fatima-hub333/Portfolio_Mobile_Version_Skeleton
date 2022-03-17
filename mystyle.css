@@ -12,8 +12,8 @@ nav {
   justify-content: space-evenly;
 }
 
-.navbar i {
-  font-size: 42px;
+.navbar img {
+  width: 20px;
   margin-top: 20px;
 }
 
@@ -28,14 +28,14 @@ h1 {
   font-size: 50px;
   font-weight: 400;
   line-height: 57px;
-  margin-left: 305px;
+  margin-left: 280px;
   margin-top: 120px;
 }
 
 .paragraph {
   display: flex;
   width: 16%;
-  margin-left: 290px;
+  margin-left: 280px;
   margin-top: -30px;
 }
 
@@ -52,7 +52,7 @@ p {
 
 .rectangle button {
   background-color: #1a2236;
-  width: 370px;
+  width: 330px;
   height: 60px;
   padding: 10px;
   color: white;
