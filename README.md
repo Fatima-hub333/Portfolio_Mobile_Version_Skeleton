@@ -10,18 +10,23 @@
 - Html, CSS
 
 ## Getting Started
+To get a local copy up and running, follow the steps in Setup below.
 
-**This is an example of how you may develop your website in mobile view via using flex-box model**
-
-To get started you have to follow the following steps,
-
-#### Setup your repository
+#### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+[Download the ZIP from this location,](https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton/archive/refs/heads/master.zip) or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
+- Once the files are on your machine, open the Portfolio folder in [Visual Studio Code](https://code.visualstudio.com/)
+- With the files open in Visual Studio Code, press the Go Live button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 #### Make folders for linters configuration
 
 #### Install npm/node_modules
+1- Install Node Modules
+      npm install
 
 #### Run linters test of your coding
+  npm run test
 
 
 ## Authors
@@ -36,7 +41,7 @@ To get started you have to follow the following steps,
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton/issues)
 
 ## Show your support
 
