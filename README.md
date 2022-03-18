@@ -8,6 +8,7 @@
 ## Built With
 
 - Html, CSS
+- Flex-Model Box
 
 ## Getting Started
 To get a local copy up and running, follow the steps in Setup below.
