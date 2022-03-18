@@ -2,18 +2,24 @@ body {
   background-color: #fdfdfd;
   margin: 0;
   padding: 0;
+  min-width: 100vw;
+}
+
+.container {
+  max-width: 320px;
+  flex-direction: column;
 }
 
 nav {
-  width: 50%;
+  width: 100%;
+  margin-top: 60px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
 }
 
 .navbar img {
-  width: 20px;
-  margin-top: 20px;
+  width: 35px;
 }
 
 section {
@@ -22,20 +28,22 @@ section {
   align-items: flex-start;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
 h1 {
   font-family: 'Playfair Display', serif;
   font-size: 50px;
   font-weight: 400;
   line-height: 57px;
-  margin-left: 280px;
-  margin-top: 120px;
 }
 
 .paragraph {
   display: flex;
-  width: 16%;
-  margin-left: 280px;
-  margin-top: -30px;
 }
 
 p {
@@ -45,8 +53,7 @@ p {
 }
 
 .rectangle {
-  margin-left: 16%;
-  margin-top: 35px;
+  margin-left: 15px;
 }
 
 .rectangle button {
@@ -61,7 +68,7 @@ p {
 }
 
 button:hover {
-  color: #ff7a59;
+  color: #1a2236;
   border: #ff7a59 solid 1px;
   background: #fff;
 }
@@ -70,10 +77,9 @@ button:hover {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin-left: 15%;
 }
 
 .image img {
-  width: 350px;
+  width: 340px;
   margin-top: 60px;
 }
