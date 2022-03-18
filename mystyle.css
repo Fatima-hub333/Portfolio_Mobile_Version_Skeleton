@@ -9,18 +9,24 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 20px;
 }
 
 nav {
-  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
+.navbar {
+  padding: 20px;
+}
+
 .navbar img {
   width: 35px;
+}
+
+.content {
+  padding: 20px;
 }
 
 section {
@@ -36,20 +42,17 @@ h1 {
   line-height: 57px;
 }
 
-.paragraph {
+.paragraph{
   display: flex;
 }
-
 p {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 14px;
 }
-
 .rectangle {
   margin-left: 15px;
 }
-
 .rectangle button {
   background-color: #1a2236;
   width: 310px;
@@ -61,18 +64,19 @@ p {
   font-weight: 500;
 }
 
-button:hover {
+button:hover{
   color: #1a2236;
   border: #ff7a59 solid 1px;
-  background: #fff;
+  background:#fff;
 }
 
 .image {
   display: flex;
+  align-items: center;
   flex-direction: column;
   align-items: flex-start;
 }
-
+  
 .image img {
   width: 340px;
   margin-top: 60px;
