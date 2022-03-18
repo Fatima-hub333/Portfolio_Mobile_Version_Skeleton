@@ -17,7 +17,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 [Download the ZIP from this location,](https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton/archive/refs/heads/master.zip) or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
+      git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
 
 - Once the files are on your machine, open the Portfolio folder in [Visual Studio Code](https://code.visualstudio.com/)
 - With the files open in Visual Studio Code, press the Go Live button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -30,8 +30,9 @@ git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
       npm install
 
 #### Run linters test of your coding
+2- Run Linter Tests
 
-  npm run test
+      npm run test
 
 
 ## Authors
