@@ -30,6 +30,7 @@ git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
       npm install
 
 #### Run linters test of your coding
+
   npm run test
 
 
